@@ -1,4 +1,9 @@
-### Hi there 👋
+# Mike Colbert
+### Associate Professor of Practice
+### Tippie College of Business, The University of Iowa
+Pronouns: he/him/his
+
+[LinkedIn](https://www.linkedin.com/in/jin-yuk-07b4041b1/)
 
 <!--
 **Keunjin-Yuk/Keunjin-Yuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
