@@ -1,5 +1,5 @@
-# Mike Colbert
-### Associate Professor of Practice
+# Jin Yuk
+### Business Analytics
 ### Tippie College of Business, The University of Iowa
 Pronouns: he/him/his
 
